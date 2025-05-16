@@ -4,12 +4,7 @@
 
 ## 安装
 
-1. 克隆仓库：
-```bash
-git clone git@github.com:Sailzf/Mytorch.git
-```
-
-2. 安装依赖：
+安装依赖：
 ```bash
 python setup.py install
 ```
